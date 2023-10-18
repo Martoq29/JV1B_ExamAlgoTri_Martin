@@ -1,0 +1,2 @@
+4/ Il est considéré comme très lent car il y'a plusieurs boucle à effectuer avant sont éxecution et lorsque qu'il effectue une boucle il va comparer répétitivement les
+éléments consécutifs du tableau, et à les permuter lorsqu'ils sont mal triés.
